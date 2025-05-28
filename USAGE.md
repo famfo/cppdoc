@@ -23,7 +23,8 @@ Comments are written using `///` or `//<`, the latter being used for inline docu
 ```cpp
 /// Documentation for 'MyEnum'
 enum MyEnum {
-	A //< Documentation for 'A' 
+    ///< Documentation for 'A' 
+	A
 }
 ```
 
